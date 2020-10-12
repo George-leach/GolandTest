@@ -20,8 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a3a91776-486c-46dd-a8f2-cf3c28aace5a" name="Default Changelist" comment="MVC complete todo tasks added vendor">
-      <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +37,7 @@
       <list>
         <option value="Go Application" />
         <option value="Go File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -45,12 +50,15 @@
     <option name="indexEntireGoPath" value="false" />
   </component>
   <component name="ProjectId" id="1ih5x1LFTlKL9qT8IOw26csGqAL" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultGoTemplateProperty" value="Go File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -64,8 +72,8 @@
       <recent name="C:\Users\George\go\src\GolandTest" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\George\go\src\GolandTest\controller" />
       <recent name="C:\Users\George\go\src\GolandTest\views" />
+      <recent name="C:\Users\George\go\src\GolandTest\controller" />
     </key>
   </component>
   <component name="RunManager">
@@ -101,6 +109,7 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Bit of interface testing" />
     <MESSAGE value="Bit of go routine testing" />
     <MESSAGE value="Bit of go MVC testing" />
