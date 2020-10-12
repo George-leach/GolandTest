@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a3a91776-486c-46dd-a8f2-cf3c28aace5a" name="Default Changelist" comment="MVC complete todo tasks added vendor">
-      <change beforePath="$PROJECT_DIR$/.idea/GolandTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/GolandTest.iml" afterDir="false" />
-    </list>
+    <list default="true" id="a3a91776-486c-46dd-a8f2-cf3c28aace5a" name="Default Changelist" comment="MVC complete todo tasks added vendor" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -155,6 +153,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040/1920.0.2560.1560@0.0.1920.1040" timestamp="1602441212825" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1602512004587">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.2560.1560@0.0.1920.1040" timestamp="1602512004587" />
     <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602511871939">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
