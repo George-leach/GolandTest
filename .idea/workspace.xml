@@ -19,15 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a3a91776-486c-46dd-a8f2-cf3c28aace5a" name="Default Changelist" comment="Bit of go MVC testing">
-      <change afterPath="$PROJECT_DIR$/controller/crud.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/create.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/reads.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/controller/routes.go" beforeDir="false" afterPath="$PROJECT_DIR$/controller/routes.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/connect.go" beforeDir="false" afterPath="$PROJECT_DIR$/model/connect.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/structs.go" beforeDir="false" afterPath="$PROJECT_DIR$/views/structs.go" afterDir="false" />
-    </list>
+    <list default="true" id="a3a91776-486c-46dd-a8f2-cf3c28aace5a" name="Default Changelist" comment="MVC complete todo tasks" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -104,7 +96,8 @@
     <MESSAGE value="Bit of interface testing" />
     <MESSAGE value="Bit of go routine testing" />
     <MESSAGE value="Bit of go MVC testing" />
-    <option name="LAST_COMMIT_MESSAGE" value="Bit of go MVC testing" />
+    <MESSAGE value="MVC complete todo tasks" />
+    <option name="LAST_COMMIT_MESSAGE" value="MVC complete todo tasks" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
