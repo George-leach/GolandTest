@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a3a91776-486c-46dd-a8f2-cf3c28aace5a" name="Default Changelist" comment="MVC complete todo tasks" />
+    <list default="true" id="a3a91776-486c-46dd-a8f2-cf3c28aace5a" name="Default Changelist" comment="MVC complete todo tasks added vendor">
+      <change beforePath="$PROJECT_DIR$/.idea/GolandTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/GolandTest.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,6 +38,7 @@
   <component name="GOROOT" path="C:\Users\George\go\go1.15.2" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GoLibraries">
     <option name="indexEntireGoPath" value="false" />
@@ -97,7 +100,8 @@
     <MESSAGE value="Bit of go routine testing" />
     <MESSAGE value="Bit of go MVC testing" />
     <MESSAGE value="MVC complete todo tasks" />
-    <option name="LAST_COMMIT_MESSAGE" value="MVC complete todo tasks" />
+    <MESSAGE value="MVC complete todo tasks added vendor" />
+    <option name="LAST_COMMIT_MESSAGE" value="MVC complete todo tasks added vendor" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
@@ -151,6 +155,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040/1920.0.2560.1560@0.0.1920.1040" timestamp="1602441212825" />
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602511871939">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.0.2560.1560@0.0.1920.1040" timestamp="1602511871939" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
